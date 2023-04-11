@@ -1,4 +1,4 @@
-# Laboratorio-2
+# Laboratorio-#2
 ## Elaborado Por:
 ### Leonardo Solaez, Derek Perez, Leonardo Avendaño
 
